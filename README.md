@@ -80,8 +80,3 @@ Branch'i gönderin: git push origin feature/yenilik.
 
 Pull Request açın.
 
-📄 Lisans
-
-Bu proje MIT Lisansı
- altında lisanslanmıştır.
-Dilediğiniz gibi kullanabilir, geliştirebilir ve paylaşabilirsiniz.
